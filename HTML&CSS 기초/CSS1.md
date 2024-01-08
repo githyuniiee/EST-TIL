@@ -33,6 +33,8 @@ color : #008080;
 </style>
 ```
 
+<br><br/>
+
 # CSS 적용하기
 
 ## 인라인 방식
@@ -75,6 +77,8 @@ color : #008080;
 </head>
 ```
 
+<br><br/>
+
 # CSS 상속
 
 ## 상속을 이용하여 텍스트 모두 빨간색으로 바꾸기 👍
@@ -105,6 +109,8 @@ div{
     
 - `inherit` : 상속받게 함
 - `initial` : 브라우저 기본 스타일 속성 따름
+
+<br><br/>
 
 # CSS 선택자
 
@@ -248,6 +254,8 @@ border: 3px solid pink;
 
 **`:not` ⇒ 부정 선택자**
 
+<br><br/>
+
 # CSS 선택자 우선순위
 
 ## 후자 우선의 원칙
@@ -273,6 +281,8 @@ border: 3px solid pink;
 
 : 다른 어떤 CSS의 선언 보다도 우선한다.
 
+<br><br/>
+
 # display 속성
 
 - 박스의 유형 결정
@@ -280,6 +290,7 @@ border: 3px solid pink;
 - `flex` : 정의된 요소의 자식들의 x or y축 둘 중 한 방향으로 위치 정렬하기 위한 속성
 - `grid` : .. x,y축 모두 정렬 ⇒ 입체적인 레이아웃으로 가능
 
+<br><br/>
 
 # CSS Box Model
 
